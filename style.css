@@ -41,7 +41,7 @@
       margin-top: 3%;
   }
   
-  @media screen and (max-width: 500px) {
+  @media  only screen and (max-width: 768px) {
     .header a {
       float: none;
       display: block;
